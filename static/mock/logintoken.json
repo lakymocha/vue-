@@ -1,0 +1,13 @@
+{
+    "Response": null,
+    "IsSuccess": true,
+    "ErrorMsg": "登录已过期，请再次登录",
+    "userdata":{
+        "username": "爱丽丝",
+        "userVip": "白金会员",
+        "userAge":18,
+        "usermassage": "个性签名",
+        "userId":"001",
+        "code": 200
+    }
+}

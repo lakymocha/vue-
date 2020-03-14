@@ -1,0 +1,7 @@
+{
+    "banner":[
+        {"src":"../static/img/13.jpeg","id":1001},
+        {"src":"../static/img/14.jpeg","id":1002},
+        {"src":"../static/img/15.jpg","id":1003}
+    ]
+}

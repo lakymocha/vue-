@@ -1,0 +1,28 @@
+{
+    "shoplist": [
+        {  "bookImg":"http://img1.imgtn.bdimg.com/it/u=890211483,748692868&fm=11&gp=0.jpg",
+            "bookName": "架构",
+            "bookPrice": 38.5,
+            "bookNum": 2,
+            "bookInfo":"前端架构设计全套实施手册，从架构规范、架构设计到微前端架构拆分",
+            "bookId":1,
+            "isSed": false
+        },
+        {  "bookImg":"https://ss0.bdstatic.com/70cFvHSh_Q1YnxGkpoWK1HF6hhy/it/u=4202151357,1358646859&fm=26&gp=0.jpg",
+            "bookName": "js入门",
+            "bookPrice": 68.2,
+            "bookNum": 2,
+            "bookInfo":"前端架构设计全套实施手册，从架构规范、架构设计到微前端架构拆分",
+            "bookId":2,
+            "isSed": false
+        },
+        {  "bookImg":"https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1582906479966&di=ee848f118ad8e649479575433e797039&imgtype=0&src=http%3A%2F%2Fwww.cnad.com%2FUpload%2Fimage%2F2015%2F0309%2F20150309104926475956.png",
+            "bookName": "vue入门",
+            "bookPrice": 58.2,
+            "bookNum": 3,
+            "bookInfo":"前端架构设计全套实施手册，从架构规范、架构设计到微前端架构拆分",
+            "bookId":3,
+            "isSed": true
+        }
+    ]
+}

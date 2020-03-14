@@ -1,0 +1,64 @@
+{
+    "userlist":[
+        {
+            "name":"爱丽丝",
+            "pass":123456,
+            "userdata":{
+                "username": "爱丽丝",
+                "userVip": "白金会员",
+                "userAge":18,
+                "usermassage": "个性签名",
+                "userId":"001",
+                "code": 200
+            }
+        },
+        {
+            "name":"梦丽",
+            "pass":123456,
+            "userdata":{
+                "username": "梦丽",
+                "userVip": "白金会员",
+                "userAge":18,
+                "usermassage": "个性签名",
+                "userId":"002",
+                "code": 200
+            }
+        },
+        {
+            "name":"杰瑞",
+            "pass":123456,
+            "userdata":{
+                "username": "杰瑞",
+                "userVip": "白金会员",
+                "userAge":18,
+                "usermassage": "个性签名",
+                "userId":"003",
+                "code": 200
+            }
+        },
+        {
+            "name":"汤姆",
+            "pass":123456,
+            "userdata":{
+                "username": "汤姆",
+                "userVip": "皇冠会员",
+                "userAge":18,
+                "usermassage": "个性签名",
+                "userId":"004",
+                "code": 200
+            }
+        },   {
+            "name":"摩卡",
+            "pass":123456,
+            "userdata":{
+                "username": "摩卡",
+                "userVip": "黑金会员",
+                "userAge":18,
+                "usermassage": "个性签名",
+                "userId":"005",
+                "code": 200
+            }
+        }
+        
+    ]
+}
